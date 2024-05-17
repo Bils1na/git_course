@@ -1,0 +1,18 @@
+[33mcommit b7b4172b7f4142e75fe821fef0ce9172bf82a4c6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 9d6377e 296a390
+Author: bilsina <bils1n@icloud.com>
+Date:   Tue Apr 30 15:35:21 2024 +0500
+
+    Merge branch 'main' of https://github.com/Bils1na/git_course
+
+[33mcommit 296a39078ceccaf1cad30ce5b369fbc279da19d6[m
+Author: Artemiy Pilipchuk <100224557+Bils1na@users.noreply.github.com>
+Date:   Tue Apr 30 21:26:52 2024 +0500
+
+    Initial commit
+
+[33mcommit 9d6377e56f3d13b5ecb5ed63f9b796dd282a7d75[m
+Author: bilsina <bils1n@icloud.com>
+Date:   Tue Apr 30 15:30:59 2024 +0500
+
+    begin
